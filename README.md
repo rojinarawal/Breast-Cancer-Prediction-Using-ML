@@ -19,20 +19,30 @@ This project aims to predict whether a tumor is benign or malignant using machin
 - Matplotlib & Seaborn (EDA)
 - Scikit-learn (ML models & evaluation)
 
-🧪 Models Used
+## 🧪 Models Used
+
 Logistic Regression
+
 Random Forest Classifier
+
 Gradient Boosting
 
-📈 Evaluation Metrics
-Accuracy
-F1-Score
-Confusion Matrix
+## 📈 Evaluation Metrics
 
-🌟 Highlights
-Performed feature selection to remove irrelevant features.
-Compared performance of multiple models.
-Visualized feature correlation and classification results.
+- Accuracy
 
-📚 Dataset
+- F1-Score
+
+- Confusion Matrix
+
+## 🌟 Highlights
+
+- Performed feature selection to remove irrelevant features.
+
+- Compared performance of multiple models.
+
+- Visualized feature correlation and classification results.
+
+## 📚 Dataset
+
 Breast Cancer Wisconsin (Diagnostic) dataset from UCI ML Repository.
